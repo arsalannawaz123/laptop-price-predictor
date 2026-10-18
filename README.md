@@ -4,7 +4,7 @@ A machine learning web app that predicts a laptop's price from its specification
 
 **Live app:** https://laptop-price-predictor-lrfttc4nnzjqz8bcz6q52r.streamlit.app/)
 
-![App screenshot](screenshot.png)
+<img src="screenshot.png" width="700">
 
 ## What it does
 
