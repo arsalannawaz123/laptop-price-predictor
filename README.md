@@ -93,4 +93,3 @@ Python, pandas, NumPy, scikit-learn, Streamlit
 **Arsalan Nawaz**
 
 - LinkedIn: www.linkedin.com/in/arsalan-nawaz-4347b1247)
-# laptop-price-predictor
